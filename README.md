@@ -43,3 +43,6 @@ Database Connectivity: JDBC
 
 Purpose:
 Tranzzy is designed to provide users with a convenient and efficient way to manage tours and courier deliveries from one unified platform, while offering admins complete oversight of system operations.
+
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/106ce904-d5bd-46dc-9adb-3540b67c896c" />
+
