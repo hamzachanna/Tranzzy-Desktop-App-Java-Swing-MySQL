@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Project Code">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Project Code/mysql-connector-j-9.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Project Code/Tranzzy_ZIP.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Project Code/flatlaf-3.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

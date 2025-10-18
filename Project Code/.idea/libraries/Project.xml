@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Project">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tranzzy_ZIP.zip!/" />
+      <root url="jar://$PROJECT_DIR$/flatlaf-3.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

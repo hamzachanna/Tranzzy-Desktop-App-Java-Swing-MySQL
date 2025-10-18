@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Tranzzy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tranzzy/Tranzzy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
